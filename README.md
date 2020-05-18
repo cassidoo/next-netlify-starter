@@ -6,6 +6,8 @@ This is a [Next.js](https://nextjs.org/) v9.4.0 project bootstrapped with [`crea
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cassidoo/next-netlify-starter&utm_source=github&utm_medium=nextstarter-cs&utm_campaign=devex)
 
+(If you click this button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify)
+
 ## Getting Started
 
 First, run the development server:
