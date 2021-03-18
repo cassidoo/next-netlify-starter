@@ -12,5 +12,8 @@
     "next": "10.0.9",
     "react": "17.0.1",
     "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "@netlify/plugin-nextjs": "^3.0.3"
   }
 }
