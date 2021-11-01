@@ -33,6 +33,7 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 **Option two:** Manual clone
 
 1. Clone this repo: `git clone https://github.com/cassidoo/next-netlify-starter.git`
-2. Navigate to the directory and run `npm run dev`
-3. Make your changes
-4. Connect to [Netlify](https://url.netlify.com/Bk4UicocL) manually (the `netlify.toml` file is the one you'll need to make sure stays intact to make sure the export is done and pointed to the right stuff)
+2. Navigate to the directory and run `npm install`
+3. Run `npm run dev`
+4. Make your changes
+5. Connect to [Netlify](https://url.netlify.com/Bk4UicocL) manually (the `netlify.toml` file is the one you'll need to make sure stays intact to make sure the export is done and pointed to the right stuff)
